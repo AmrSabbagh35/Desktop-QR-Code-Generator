@@ -1,4 +1,4 @@
-# hisham_qr
+# Desktop QR Generator
 
 A new Flutter project.
 
