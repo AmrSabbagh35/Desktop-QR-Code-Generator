@@ -4,7 +4,7 @@
 
 Desktop QR Generator is a Flutter desktop application developed for Al-Fatinah Uniforms Company to streamline the process of generating and printing QR codes for their products. This app simplifies the task of creating QR codes associated with specific products, making it easier to manage and track inventory.
 
-![QR Generator App Screenshot](screenshots/app_screenshot.png)
+![QR Generator App Screenshot](s1.png)
 
 ## Features
 
