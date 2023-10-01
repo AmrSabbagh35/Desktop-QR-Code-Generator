@@ -13,10 +13,6 @@ Desktop QR Generator is a Flutter desktop application developed for Al-Fatinah U
 - Print QR codes directly from the application.
 - Store the generated QR code on your PC in a folder.
 
-## Getting Started
-
-Follow these steps to get started with the Desktop QR Generator:
-
 ### Prerequisites
 
 - Flutter SDK installed (version 2.0 or higher)
@@ -25,13 +21,16 @@ Follow these steps to get started with the Desktop QR Generator:
 ### Screenshots
 
 Main Screen
+![Main Screen Screenshot](s1.png)
 
 QR Code Generation
+![QR Generator Screenshot](s2.png)
 
 Printing QR Codes
+![QR Printing Screenshot](s3.png)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 #### Acknowledgments
-We extend our gratitude to Al-Fatinah Uniforms Company for their collaboration and support in the development of this application.
+I extend my gratitude to Al-Fatinah Uniforms Company for their collaboration and support in the development of this application.
